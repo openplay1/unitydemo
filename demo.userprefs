@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\FMS.cs">
+    <Files>
+      <File FileName="Assets\Script\PlayerState.cs" Line="12" Column="35" />
+      <File FileName="Assets\Script\MoveTest.cs" Line="93" Column="22" />
+      <File FileName="Assets\Script\FMS.cs" Line="229" Column="21" />
+      <File FileName="Assets\Footman\Script\playerControl.cs" Line="102" Column="43" />
+      <File FileName="Assets\Script\Manager.cs" Line="116" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
